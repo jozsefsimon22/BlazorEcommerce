@@ -24,17 +24,4 @@
     text-align: center;
 }
 
-.price[b-fx5atut3jr] {
-    color: green;
-}
 
-@media (max-width: 1023.98px) {
-    .media[b-fx5atut3jr] {
-        flex-direction: column
-    }
-
-    .media-img-wrapper[b-fx5atut3jr] {
-        width: 100px;
-        height: auto;
-    }
-}

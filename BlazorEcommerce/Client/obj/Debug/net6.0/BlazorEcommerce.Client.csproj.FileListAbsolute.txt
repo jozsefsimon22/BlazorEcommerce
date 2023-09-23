@@ -827,3 +827,4 @@ C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\BpNc4z4l.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\pqayrwvC.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\+QZ4vLnj.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
