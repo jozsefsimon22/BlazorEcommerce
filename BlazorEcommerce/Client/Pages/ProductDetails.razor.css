@@ -11,7 +11,7 @@
     text-align: center;
 }
 
-@media (max-widht: 1012.98px){
+@media (max-width: 1012.98px){
     .media-img {
         max-width: 300px;
     }
@@ -19,4 +19,8 @@
         width: 100%;
         height: auto;
     }
+}
+
+.original-price {
+    text-decoration: line-through;
 }

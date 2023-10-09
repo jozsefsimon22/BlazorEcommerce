@@ -1,0 +1,15 @@
+﻿@BlazorEcommerce.Server_HostAddress = https://localhost:7125
+@id = 1
+@searchString = half
+
+GET {{BlazorEcommerce.Server_HostAddress}}/api/productcontoller/search/{{searchString}}
+
+###
+
+GET {{BlazorEcommerce.Server_HostAddress}}/api/productcontoller/{{id}}
+
+###
+
+GET {{BlazorEcommerce.Server_HostAddress}}/api/productcontoller/searchsuggestions/{{searchString}}
+
+###

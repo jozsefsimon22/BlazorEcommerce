@@ -12,7 +12,7 @@
     text-align: center;
 }
 
-@media (max-widht: 1012.98px){
+@media (max-width: 1012.98px){
     .media-img[b-0l6p78lwiq] {
         max-width: 300px;
     }
@@ -20,6 +20,10 @@
         width: 100%;
         height: auto;
     }
+}
+
+.original-price[b-0l6p78lwiq] {
+    text-decoration: line-through;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-7v9fucczvh] {
@@ -192,5 +196,3 @@ main[b-7v9fucczvh] {
     width: 200px;
     text-align: center;
 }
-
-

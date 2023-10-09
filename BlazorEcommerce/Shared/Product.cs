@@ -11,12 +11,10 @@ namespace BlazorEcommerce.Shared
         public string? Description { get; set; }
         public string? ImageUrl { get; set; }
 
-        [Column(TypeName = "decimal(18,4)")]
-        public decimal Price { get; set; }
-
         public Category? Category { get; set; }
 
-        [ForeignKey("Category")]
         public int CategoryId { get; set; }
+
+        public List<ProductVariant> Variants { get; set; } = new List<ProductVariant>();
     }
 }
