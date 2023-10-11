@@ -5,7 +5,14 @@
 
 <PageTitle>My Shop</PageTitle>
 
-<ProductList/>
+@if (SearchText == null && CategoryUrl == null)
+{
+    <FeaturedProducts />
+}
+else
+{
+    <ProductList />
+}
 
 @code
 {
@@ -23,7 +30,7 @@
         }
         else
         {
-        await ProductService.GetProducts(CategoryUrl);
+            await ProductService.GetProducts(CategoryUrl);
         }
     }
 }

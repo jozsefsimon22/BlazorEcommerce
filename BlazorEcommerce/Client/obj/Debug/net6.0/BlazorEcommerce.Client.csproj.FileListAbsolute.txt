@@ -823,10 +823,12 @@ C:\Users\nexsi\source\repos\BlazorEcommerce\blazorecommerce\Client\obj\Debug\net
 C:\Users\nexsi\source\repos\BlazorEcommerce\blazorecommerce\Client\obj\Debug\net6.0\build-gz\Gd1uShqX.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\blazorecommerce\Client\obj\Debug\net6.0\build-gz\d6hjOmo8.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\blazorecommerce\Client\obj\Debug\net6.0\build-gz\z56fpcfo.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\OlvBiVXf.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\BpNc4z4l.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\pqayrwvC.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\+QZ4vLnj.gz
-C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
-C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
-C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
