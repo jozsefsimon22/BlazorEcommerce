@@ -832,3 +832,8 @@ C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\pqayrwvC.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\+QZ4vLnj.gz
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\GMZkGjOu.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\Cart.razor.rz.scp.css

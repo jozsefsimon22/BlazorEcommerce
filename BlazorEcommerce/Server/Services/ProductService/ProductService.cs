@@ -53,7 +53,7 @@
 
         public async Task<ServiceResponse<ProductSearchResultDto>> SearchProducts(string searchText, int page)
         {
-            var pageResults = 2;
+            var pageResults = 2f;
             var pageCount = Math.Ceiling((decimal)((await FindProductsBySearchText(searchText)).Count / pageResults));
             var products = await _context.Products
                 .Where(p => p.Title.ToLower().Contains(searchText.ToLower())
