@@ -22,11 +22,21 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\Cart.razor" />
+    <_ContentIncludedByDefault Remove="Pages\Login.razor" />
+    <_ContentIncludedByDefault Remove="Register.razor" />
     <_ContentIncludedByDefault Remove="Shared\HomeButton.razor" />
   </ItemGroup>
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Pages\Cart.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Register.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Login.razor" />
   </ItemGroup>
 
 </Project>
