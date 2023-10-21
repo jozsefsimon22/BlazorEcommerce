@@ -92,3 +92,5 @@ C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\server\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
