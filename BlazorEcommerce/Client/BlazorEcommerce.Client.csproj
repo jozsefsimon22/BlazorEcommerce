@@ -27,6 +27,7 @@
     <_ContentIncludedByDefault Remove="Pages\Login.razor" />
     <_ContentIncludedByDefault Remove="Pages\OrderDetails.razor" />
     <_ContentIncludedByDefault Remove="Pages\Orders.razor" />
+    <_ContentIncludedByDefault Remove="Pages\OrderSuccess.razor" />
     <_ContentIncludedByDefault Remove="Pages\Profile.razor" />
     <_ContentIncludedByDefault Remove="Register.razor" />
     <_ContentIncludedByDefault Remove="Shared\HomeButton.razor" />
@@ -54,6 +55,10 @@
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Pages\OrderDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\OrderSuccess.razor" />
   </ItemGroup>
 
 </Project>

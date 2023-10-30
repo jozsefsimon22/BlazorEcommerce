@@ -43,6 +43,14 @@ public class AuthService : IAuthService
     public int GetUserId() =>
         int.Parse(_httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.NameIdentifier));
 
+    public string GetUserEmail() => _httpContextAccessor.HttpContext.User.FindFirstValue(ClaimTypes.Name);
+
+    public async Task<User> GetUserByEmail(string email)
+    {
+        return await _context.Users.FirstOrDefaultAsync(u => u.Email.Equals(email));
+    }
+
+
     public async Task<bool> UserExists(string email)
     {
         if (await _context.Users.AnyAsync(user => user.Email.ToLower().Equals(email.ToLower())))
@@ -89,7 +97,7 @@ public class AuthService : IAuthService
             };
         }
 
-        CreatePasswordHash(newPassword, out byte[]passwordHash, out byte[]passwordSalt);
+        CreatePasswordHash(newPassword, out byte[] passwordHash, out byte[] passwordSalt);
 
         user.PasswordSalt = passwordSalt;
         user.PasswordHash = passwordHash;
