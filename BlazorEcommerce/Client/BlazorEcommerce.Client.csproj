@@ -30,6 +30,7 @@
     <_ContentIncludedByDefault Remove="Pages\OrderSuccess.razor" />
     <_ContentIncludedByDefault Remove="Pages\Profile.razor" />
     <_ContentIncludedByDefault Remove="Register.razor" />
+    <_ContentIncludedByDefault Remove="Shared\AddressForm.razor" />
     <_ContentIncludedByDefault Remove="Shared\HomeButton.razor" />
   </ItemGroup>
 
@@ -59,6 +60,10 @@
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Pages\OrderSuccess.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Shared\AddressForm.razor" />
   </ItemGroup>
 
 </Project>
