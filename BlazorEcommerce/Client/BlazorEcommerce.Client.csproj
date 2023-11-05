@@ -23,11 +23,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Admin\Categories.razor" />
     <_ContentIncludedByDefault Remove="Pages\Cart.razor" />
     <_ContentIncludedByDefault Remove="Pages\Login.razor" />
     <_ContentIncludedByDefault Remove="Pages\OrderDetails.razor" />
     <_ContentIncludedByDefault Remove="Pages\Orders.razor" />
     <_ContentIncludedByDefault Remove="Pages\OrderSuccess.razor" />
+    <_ContentIncludedByDefault Remove="Pages\ProductTypes.razor" />
     <_ContentIncludedByDefault Remove="Pages\Profile.razor" />
     <_ContentIncludedByDefault Remove="Register.razor" />
     <_ContentIncludedByDefault Remove="Shared\AddressForm.razor" />
@@ -64,6 +66,14 @@
 
   <ItemGroup>
     <UpToDateCheckInput Remove="Shared\AddressForm.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\Admin\Categories.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\ProductTypes.razor" />
   </ItemGroup>
 
 </Project>

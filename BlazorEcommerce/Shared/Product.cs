@@ -7,8 +7,12 @@ namespace BlazorEcommerce.Shared
     {
         [Key]
         public int Id { get; set; }
+
+        [Required]
         public string? Title { get; set; }
+
         public string? Description { get; set; }
+
         public string? ImageUrl { get; set; }
 
         public Category? Category { get; set; }
@@ -18,5 +22,15 @@ namespace BlazorEcommerce.Shared
         public bool Featured { get; set; }
 
         public List<ProductVariant> Variants { get; set; } = new List<ProductVariant>();
+
+        public bool Visible { get; set; } = true;
+
+        public bool Deleted { get; set; } = false;
+
+        [NotMapped]
+        public bool Editing { get; set; } = false;
+
+        [NotMapped]
+        public bool IsNew { get; set; } = false;
     }
 }
