@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8V3bugGHdzIgBUEw2kMzSbqOBPFGl1Md3t4kJgZSVs3OKOcRcmDeYjsl/x0Dgk7zej6CZJgfTCqBHWUB5sbsGg==",
+  "dgSpecHash": "ddu+VMAJRV+4DekVRZUDMP7nUOEI6n0z8HullUz2F5AObQdhDsIkNY09WnDqsqLJqB60tVwzK93rEJe61MdISg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization\\6.0.16\\microsoft.extensions.localization.6.0.16.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.16\\microsoft.extensions.localization.abstractions.6.0.16.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.jsinterop\\6.0.19\\microsoft.jsinterop.6.0.19.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.19\\microsoft.jsinterop.webassembly.6.0.19.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\mudblazor.6.11.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",

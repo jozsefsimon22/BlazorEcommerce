@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XugcH41VgYEce3FXI9DJsigLjRqa3Sv6kolZPNqHYlw=",
+  "Hash": "L3d2+n1AHMtPRcxgibjbpde8fA/2fV2QrsqRWrQ6CUE=",
   "Source": "BlazorEcommerce.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\staticwebassets\\MudBlazor.min.js"
+    },
     {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "BlazorEcommerce.Client",
@@ -578,6 +612,40 @@
       "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.16\\lib\\net6.0\\Microsoft.Extensions.Localization.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization\\6.0.16\\lib\\net6.0\\Microsoft.Extensions.Localization.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Computed",
@@ -780,6 +848,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.22\\runtimes\\browser-wasm\\lib\\net6.0\\mscorlib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\lib\\net6.0\\MudBlazor.dll"
     },
     {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
@@ -4063,6 +4148,23 @@
       "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll"
     },
     {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\8BmA8gYn.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\8qc4fuAT.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Computed",
@@ -4760,6 +4862,23 @@
       "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.wasm"
     },
     {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\G3YJtUq4.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/MudBlazor.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll"
+    },
+    {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\Gd1uShqX.gz",
       "SourceId": "BlazorEcommerce.Client",
       "SourceType": "Computed",
@@ -5302,6 +5421,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll"
+    },
+    {
+      "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\lHvd6Oaa.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Localization.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Localization.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\lVw0IsCZ.gz",

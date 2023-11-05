@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b87J1oXwaUtBbaHrZV6ewst81GJaWvs+qiMDndRzrNMcn1DWGBbi5SvuVAAGMb60Sa66ubSbZxDFa22Ljos7Ig==",
+  "dgSpecHash": "GT4r+Qcta6KtzH67KpdZjkT2U/6P0TGQ8rgjk3kIaBeDab0f7AtFEKXZqgX6moaMNd88QVPvvWxxQbDhWgwiIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nexsi\\source\\repos\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization\\6.0.16\\microsoft.extensions.localization.6.0.16.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\6.0.16\\microsoft.extensions.localization.abstractions.6.0.16.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
@@ -57,6 +59,7 @@
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\nexsi\\.nuget\\packages\\mudblazor\\6.11.0\\mudblazor.6.11.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\stripe.net\\43.0.0\\stripe.net.43.0.0.nupkg.sha512",
     "C:\\Users\\nexsi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",

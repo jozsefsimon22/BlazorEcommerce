@@ -857,3 +857,15 @@ C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\Admin\ProductTypes.razor.rz.scp.css
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\Admin\Products.razor.rz.scp.css
 C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\Admin\EditProduct.razor.rz.scp.css
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Localization.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Localization.dll.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.Extensions.Localization.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\8BmA8gYn.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\lHvd6Oaa.gz
+C:\Users\nexsi\source\repos\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\G3YJtUq4.gz
