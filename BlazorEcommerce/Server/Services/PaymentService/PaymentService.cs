@@ -49,8 +49,8 @@ public class PaymentService : IPaymentService
             },
             LineItems = lineItems,
             Mode = "payment",
-            SuccessUrl = "https://localhost:7125/order-success",
-            CancelUrl = "https://localhost:7125/cart"
+            SuccessUrl = "https://js-ecommerce.azurewebsites.net/order-success",
+            CancelUrl = "https://js-ecommerce.azurewebsites.net/cart"
         };
 
         var service = new SessionService();
